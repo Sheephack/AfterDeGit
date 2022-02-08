@@ -1,0 +1,11 @@
+body{
+    background-color: #121212;
+}
+
+.navbar-collapse{
+    flex-grow: unset;
+}
+
+.text-info{
+    padding-top: 1rem;
+}
